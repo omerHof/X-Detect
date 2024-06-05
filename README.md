@@ -2,6 +2,7 @@
 
 Code project for X-Detect, a noval adversarial patch detector for object detection. 
 
+![Alt text](samples_for_readme/Figure1.PNG?raw=true "Title")
 
 # Abstract 
 Object detection models, which are widely used in various domains (such as
